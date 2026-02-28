@@ -2,6 +2,10 @@ BASIC_ROBOT: lightweight robot mod for multiplayer
 minetest 0.4.14
 (c) 2016 rnd
 
+---Updated to fix exploits, fix farming compatibility, and added a bot priv for level 0 access
+2-28-2026 - kam789
+
+
 MANUAL:
 	1. ingame help: right click spawner (basic_robot:spawner) and click help button
 
